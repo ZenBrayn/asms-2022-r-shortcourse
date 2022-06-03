@@ -12,6 +12,6 @@ Work through the example questions using the basic R coding you learned today.
     * 02_basic_data_review_ms_examples.R
 
 
-## Additional Exercise with dplyr (Sunday)
+## Additional Exercise with dplyr
 1. Open the RStudio project for the exercises: exercises/exercise_ms_examples/exercise_ms_examples.Rproj
 2. Work through the dplyr exercises in the .R file: 03_dplyr_ms_examples.R
