@@ -2,9 +2,9 @@
 
 ## Course Logistics
 
-**Date**: June 4 -- 5, 2022
+**Date**: June 4 - 5, 2022
 
-**Time**: 9AM -- 5PM
+**Time**: 9AM - 5PM
 
 **Location**: ASMS 2022 Annual Conference, Minneapolis MN (see conference program for location)
 
