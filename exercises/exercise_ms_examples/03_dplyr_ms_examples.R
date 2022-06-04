@@ -14,14 +14,13 @@ dat <- read_csv("data/Choi2017_DDA_Skyline_input.csv.zip", guess_max = 10000)
 
 # Exercise #2 -- Subsetting rows (filter)
 #
-# 2.1 In the previous exercises, we subsetted the data to rows
-#     for the protein "sp|P33399|LHP1_YEAST".  Repeat this using
-#     a dplyr pipeline instead.
+# 2.1 Subset the data to rows for the protein "sp|P33399|LHP1_YEAST", using
+#     a dplyr pipeline.
 
 
 # 2.2 How many rows and columns did you get from 2.1, and how does this compare
-#     to the number of rows and columns you got when you subsetted the
-#     data using data frame indexing syntax (refer to the previous exercises).
+#     to the number of rows and columns you get when you subset the
+#     data using data frame indexing syntax?
 
 
 # 2.3 Subset the data further to rows for the protein "sp|P33399|LHP1_YEAST"
@@ -30,8 +29,8 @@ dat <- read_csv("data/Choi2017_DDA_Skyline_input.csv.zip", guess_max = 10000)
 #     the original data you read in during 1.1 above.
 
 
-# 2.4 Review the results from the subsetted data from 2.3 (hint: View).  Does
-#     Does the structure of the data make more sense now?
+# 2.4 Review the results from the subsetted data from 2.3 (hint: View).
+#     Does this help explain the structure of the data?
 
 
 # Exercise #3 -- Group By + Summarize
@@ -42,7 +41,7 @@ dat <- read_csv("data/Choi2017_DDA_Skyline_input.csv.zip", guess_max = 10000)
 #     this task?
 
 
-# 3.2 Write a dplyr pipeline do the above task.  Does the code you wrote has similarities
+# 3.2 Write a dplyr pipeline do the above task.  Does the code you wrote have similarities
 #     to the way you described the task in 3.1?
 
 
