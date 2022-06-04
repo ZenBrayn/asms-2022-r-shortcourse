@@ -1,9 +1,9 @@
 # read in data from a file, a .csv file
 # no assignment!
-read.csv("exercises/intro_to_r/data/bacterial-peak-data.csv")
+read.csv("data/bacterial-peak-data.csv")
 
 # assigned to new variable "peak_data"
-peak_data <- read.csv("exercises/intro_to_r/data/bacterial-peak-data.csv")
+peak_data <- read.csv("data/bacterial-peak-data.csv")
 
 # variable access in a data.frame
 # str(peak_data)
