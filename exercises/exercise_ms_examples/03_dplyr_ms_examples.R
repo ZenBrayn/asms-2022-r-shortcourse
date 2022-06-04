@@ -1,4 +1,4 @@
-# ASMS 2021 R Short Course
+# ASMS 2022 R Short Course
 # Working with dplyr, MS Examples
 # 
 
